@@ -9,7 +9,7 @@ function iniciajogo(){
 
     var tempo_segundos = 0;
 
-    if(nivel_jogo ==1){ //1 facil = 120 segundos
+    if(nivel_jogo ==1){ //1 facil = 120 segundosss
         tempo_segundos = 120;
 
     }
